@@ -1,8 +1,6 @@
 <?php
-
 123
 321
 222
-
-
-this experiment 3 - new line
+experiment 3 - new line
+experiment merge 3
