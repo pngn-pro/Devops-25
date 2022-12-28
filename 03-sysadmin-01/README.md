@@ -12,7 +12,7 @@ end
 Это нам даст 2 CPU, и 2048 Мб памяти.
 
 4. 
-![](/home/alexander/Изображения/Снимки экрана/vagrant-2.png)
+![vagrant-2.png](vagrant-2.png)
 5. 
 5.1 history-size. 30 строка (man bash | less -N)
 5.2 Значение ignoredups приводит к тому, что строки, соответствующие предыдущей записи истории, не сохраняются.
@@ -25,7 +25,7 @@ touch ./file{1..100000}
 8. Это сокращение программы test. В данном примере проверяется существует ли файл и является он каталогом.
 
 9. 
-![](/home/alexander/Изображения/Снимки экрана/9.png)
+![9.png](9.png)
 #mkdir -p /tmp/new_path_directory/
 
 #cp /bin/bash /tmp/new_path_directory/
