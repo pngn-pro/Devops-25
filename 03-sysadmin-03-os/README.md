@@ -4,8 +4,8 @@
 3. lsof -p 12664 <br>
 bash 12664 alexander   2r      REG                0,1     6122   2079 /var/log/test-delete.log (deleted)
 <br>
-echo '' > /proc/12664/fd/2
-4. Зомби-процессы освобождают ресурсы
+echo '' > /proc/12664/fd/2<br>
+4. Зомби-процессы освобождают ресурсы<br>
 5. В федоре не заработало никак, запускал через vagrant/ubuntu.
 openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
 <br>
