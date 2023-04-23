@@ -70,4 +70,4 @@ Hey, Netology
 ----
 ответ:
 
-![3.png](3.png)
+![3!.png](3!.png)
